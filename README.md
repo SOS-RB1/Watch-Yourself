@@ -1,5 +1,5 @@
 # Watch yourself
-Simple python timer.
+Simple python timer
 
 ![watch yourself ocean](wyo.jpg) ![watch yourself amber](wya.jpg) ![watch yourself default](wyd.jpg)
 
