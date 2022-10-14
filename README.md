@@ -1,5 +1,5 @@
-# Watch yourself
-Simple python timer
+# Watch Yourself
+Simple timer (Python, Pygame, Tkinter)
 
 ![watch yourself ocean](wyo.jpg) ![watch yourself amber](wya.jpg) ![watch yourself default](wyd.jpg)
 
