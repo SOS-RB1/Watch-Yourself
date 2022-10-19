@@ -6,7 +6,7 @@ Simple timer (Python, Pygame, Tkinter)
 ### General Information
 I use a timer in my job. Concentrating on the task I hardly move for several hours. It's easy way to treat back pain, burning eyes,... In the timer, I can set a time interval after which I will be informed. Then I act.
 
-![](demo_timer_python_w.jpg)
+![demo timer python](demo_timer_python_w.jpg)
 
 ### Technologies Used
 * Pygame 2.1.2
